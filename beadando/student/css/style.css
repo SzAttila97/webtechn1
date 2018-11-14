@@ -189,4 +189,8 @@ th, td {
     border-bottom: 1px solid #ddd;
 }
 
+img:hover{
+    padding: 0.2px;
+}
+
 
