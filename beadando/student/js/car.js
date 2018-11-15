@@ -21,4 +21,6 @@ $('#newCarForm').on('submit', function (event) {
     }).fail(function (response) {
         alert('Failed to add the manufacturer!');
     });
+    
+    $('.modal').remove();
 });
