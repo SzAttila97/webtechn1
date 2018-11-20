@@ -193,4 +193,7 @@ img:hover{
     padding: 0.2px;
 }
 
+tr:hover {
+    background-color: rgba(55,153,55,0.3);
+}
 
